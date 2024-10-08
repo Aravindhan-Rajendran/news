@@ -1,0 +1,33 @@
+.news-section {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .news-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .news-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .news-section li {
+    margin-bottom: 15px;
+    padding: 5px 0;
+  }
+  
+  .news-section li a {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .news-section li p {
+    font-size: 14px;
+    color: #555;
+  }
+  
